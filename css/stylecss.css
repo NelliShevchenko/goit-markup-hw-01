@@ -8,4 +8,10 @@ header nav ul {
 }
 p {
     color:orange ;
-  }
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
